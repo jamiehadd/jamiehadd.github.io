@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jamie Haddock / Site Title"
+title                    : "Jamie Haddock"
 title_separator          : "-"
 name                     : &name "Jamie Haddock"
 description              : &description "personal description"
