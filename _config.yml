@@ -83,7 +83,7 @@ author:
   name             : "Jamie Haddock"
   avatar           : "jamie.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "https://goo.gl/maps/72dc6aJX4hDpU4QA6"
+  location         : "<a href="https://goo.gl/maps/72dc6aJX4hDpU4QA6">Los Angeles, CA</a>"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ONLOj-oAAAAJ&hl=en"
