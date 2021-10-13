@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jamie Haddock"
   avatar           : "jamie.jpg"
-  bio              : "<b>Assistant Professor</b> <br><a href="https://www.hmc.edu/mathematics/">Department of Mathematics</a> <br><a href="https://www.hmc.edu/>Harvey Mudd College</a>"
+  bio              : "<b>Assistant Professor</b> <br><br><a href="https://www.hmc.edu/mathematics/">Department of Mathematics</a> <br><a href="https://www.hmc.edu/>Harvey Mudd College</a>"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
