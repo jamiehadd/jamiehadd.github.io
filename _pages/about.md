@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/mathematics/) at [Harvey Mudd College](https://www.hmc.edu/). My research focuses are in mathematical data science, optimization, and applied convex geometry. Before starting at HMC, I received my PhD in the Graduate Group in Applied Mathematics at the University of California, Davis where I was advised by Professor Jesús A. De Loera, and was a CAM Assistant Professor (post-doc) in the UCLA Mathematics Department where my mentor was Professor Deanna Needell.
 
 
-Contact
+<br>Contact
 ===========
 Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 <br>Office: Shanahan 2408
@@ -21,7 +21,7 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 
 
-Recent News
+<br>Recent News
 ===========
 <b>June '21: </b> I was selected for the MAA Project NExT Gold'21 cohort!  <a href="https://www.maa.org/programs-and-communities/professional-development/project-next">Project NExT</a> (New Experiences in Teaching) is a year-long professional development program for early career mathematicians that addresses all aspects of an academic career. Looking forward to participating in this program and to meeting the rest of the cohort!
 
