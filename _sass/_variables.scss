@@ -51,7 +51,7 @@ $gray                       : #333436;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 10%);
+$lighter-gray               : mix(#fff, $gray, 0%);
 
 $body-color                 : #252a34;
 $background-color           : #333436;
@@ -149,6 +149,6 @@ $susy: (
 
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$navicon-width              : 56px;
+$navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
