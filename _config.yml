@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jamie Haddock"
-  avatar           : "jamie.jpg"
+  avatar           : ["jamie.jpg"](https://jamiehadd.github.io)
   bio              : "Assistant Professor of Mathematics"
   location         : "Los Angeles, CA"
   employer         :
