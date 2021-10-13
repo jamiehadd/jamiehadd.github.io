@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jamie Haddock"
+  name             : "<font size="+2">Jamie Haddock</font>"
   avatar           : "jamie.jpg"
   bio              : "<b>Assistant Professor</b><br>Department of Mathematics<br>Harvey Mudd College"
   location         : "Los Angeles, CA"
