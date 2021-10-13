@@ -14,6 +14,7 @@ I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/
 Contact
 ===========
 Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
+
 Office: Shanahan 2408
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
