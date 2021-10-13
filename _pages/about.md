@@ -14,13 +14,10 @@ I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/
 Contact
 ===========
 Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
-
-Office: Shanahan 2408
-<!-- Calendly link widget begin -->
+<br>Office: Shanahan 2408
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jamie-haddock'});return false;">Schedule time with me</a>
-<!-- Calendly link widget end -->
 
 
 
