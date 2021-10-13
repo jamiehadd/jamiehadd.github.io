@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/mathematics/) at [Harvey Mudd College](https://www.hmc.edu/). My research focuses are in mathematical data science, optimization, and applied convex geometry.  I leverage mathematical tools, such as those from probability, combinatorics, and convex geometry, on problems in data science and optimization. Areas in which I have been active recently include randomized numerical linear algebra, combinatorial methods for convex optimization, tensor decomposition for topic modeling, and network consensus problems.
 
-<br>Before starting at HMC, I received my PhD in the Graduate Group in Applied Mathematics at the University of California, Davis where I was advised by Professor Jesús A. De Loera, and was a CAM Assistant Professor (post-doc) in the UCLA Mathematics Department where my mentor was Professor Deanna Needell.
+Before starting at HMC, I received my PhD in the Graduate Group in Applied Mathematics at the University of California, Davis where I was advised by Professor Jesús A. De Loera, and was a CAM Assistant Professor (post-doc) in the UCLA Mathematics Department where my mentor was Professor Deanna Needell.
 
 
 <br>Contact
