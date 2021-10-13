@@ -9,8 +9,14 @@ main:
   - title: "Code"
     url: /code/
 
+  - title: "Schedule"
+    url: /schedule/
+
   - title: "Group"
     url: /group/
+
+  - title: "Resources"
+    url: /resources/
 
   - title: "Personal"
     url: /personal/
