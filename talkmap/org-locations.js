@@ -15,6 +15,11 @@ var addressPoints = [
     -122.23963364918777
   ],
   [
+    "Claremont, CA",
+    34.0966764,
+    -117.7197785
+  ],
+  [
     "San Francisco, California",
     37.7790262,
     -122.419906
