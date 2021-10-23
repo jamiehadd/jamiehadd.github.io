@@ -25,6 +25,10 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>September '21: </b> Asilomar papers and chair of session
+
+<b>September '21: </b> MAA Session
+
 <b>June '21: </b> I was selected for the MAA Project NExT Gold'21 cohort!  <a href="https://www.maa.org/programs-and-communities/professional-development/project-next">Project NExT</a> (New Experiences in Teaching) is a year-long professional development program for early career mathematicians that addresses all aspects of an academic career. Looking forward to participating in this program and to meeting the rest of the cohort!
 
 <b>May '21: </b> Our grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2111440&HistoricalAwards=false">"Tensor Models, Methods, and Medicine"</a> was awarded by NSF DMS Computational Mathematics!  This award will support research developing supervised and hierarchical tensor models and efficient numerical and combinatorial methods for training these models, and an exciting collaboration with cardiologists at Harbor-UCLA Medical Center!  It will fund summer undergraduate research positions and summer workshops bringing experts on the mathematics of tensors together with application area experts.  If you are interested in either of these opportunities, please <a href="mailto:jhaddock@g.hmc.edu">reach out!</a>
