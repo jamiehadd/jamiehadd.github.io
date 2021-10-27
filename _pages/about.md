@@ -25,9 +25,9 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
-<b>September '21: </b> Asilomar papers and chair of session
+<b>September '21: </b> Our papers "Neural Nonnegative CP Decomposition for Hierarchical Tensor Analysis" (with student <a href="http://www.joshvendrow.com/">Josh Vendrow</a>) and <a href="https://arxiv.org/abs/2010.07956">"Semi-supervised Nonnegative Matrix Factorization for Document Classification"</a> (with student Sixian Li) were accepted to the proceedings of the 55th Asilomar Conference on Signals, Systems, and Computers!  During that conference, I will additionally chair the session "Algorithms for Data Analytics".
 
-<b>September '21: </b> MAA Session
+<b>September '21: </b> I am coorganizing the MAA Session "Establishing Interdisciplinary Collaborations in Teaching and Research" at the Joint Mathematics Meeting in Seattle, WA January 5-8, 2022 with Jessica Oehrlein (Fitchburg State University)!  We have a great set of speakers who will lead an interactive session on how beginning and sustaining interdisciplinary collaboration with academics outside mathematics and industrial colleagues.
 
 <b>June '21: </b> I was selected for the MAA Project NExT Gold'21 cohort!  <a href="https://www.maa.org/programs-and-communities/professional-development/project-next">Project NExT</a> (New Experiences in Teaching) is a year-long professional development program for early career mathematicians that addresses all aspects of an academic career. Looking forward to participating in this program and to meeting the rest of the cohort!
 
