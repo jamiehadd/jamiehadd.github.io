@@ -33,7 +33,8 @@ function help_click(div, txt) { if (div.innerHTML == "") div.innerHTML = "<br/> 
 
 <h2>Randomized iterative methods for large linear systems</h2>
 
-[ <a onclick='help_click(help170, "text")' href="javascript:;">Publications</a> ] <div id="help170"></div>
+[ <a onclick='help_click(help170, "text")' href="javascript:;">Publications</a> ]
+<div id="help170"></div>
 
 
 <a href="http://arxiv.org/abs/1912.03544">&quot;Greed Works: An Improved Analysis of Sampling Kaczmarz-Motzkin&quot;</a> (J. Haddock, A. Ma; SIMODS 2021)
