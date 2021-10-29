@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Jamie Haddock"
   avatar           : "jamie.jpg"
-  bio              : "<b>Jamie Haddock</b><br>Assistant Professor<br>Department of Mathematics<br>Harvey Mudd College"
+  bio              : "<b>Assistant Professor</b><br>Department of Mathematics<br>Harvey Mudd College"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
