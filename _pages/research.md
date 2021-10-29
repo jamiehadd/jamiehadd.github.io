@@ -33,7 +33,7 @@ function help_click(div, txt) { if (div.innerHTML == "") div.innerHTML = "<br/> 
 
 <h2>Randomized iterative methods for large linear systems</h2>
 
-[ <a onclick='help_click(help170, "text")' href="javascript:;">Publications</a> ]
+[ <a onclick='help_click(help170, "[text](https://www.hmc.edu/mathematics/)")' href="javascript:;">Publications</a> ]
 <div id="help170"></div>
 
 
