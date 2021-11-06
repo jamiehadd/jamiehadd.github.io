@@ -121,6 +121,9 @@
       {% if author.cv %}
         <li><a href="https://jamiehadd.github.io/files/HaddockCV.pdf"><i class="fas fa-fw fa-link" aria-hidden="true"></i> CV</a></li>
       {% endif %}
+      {% if author.calendly %}
+        <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jamie-haddock'});return false;"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Calendly</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
