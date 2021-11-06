@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![visualization of residual of iterative projection method for linear inequalities](../images/residual.png)
+
 I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/mathematics/) at [Harvey Mudd College](https://www.hmc.edu/). My research focuses are in mathematical data science, optimization, and applied convex geometry.  I leverage mathematical tools, such as those from probability, combinatorics, and convex geometry, on problems in data science and optimization. Areas in which I have been active recently include randomized numerical linear algebra, combinatorial methods for convex optimization, tensor decomposition for topic modeling, network consensus and ranking problems, and community detection on graphs and hypergraphs.
 
 Before starting at HMC, I received my PhD in the [Graduate Group in Applied Mathematics](http://appliedmath.ucdavis.edu/) at the University of California, Davis where I was fortunate to be advised by [Professor Jesús A. De Loera](https://www.math.ucdavis.edu/~deloera), and then was a CAM Assistant Professor (post-doc) in the University of California, Los Angeles (UCLA) [Mathematics Department](https://ww3.math.ucla.edu/) where my exceptional postdoctoral mentor was [Professor Deanna Needell](https://www.math.ucla.edu/~deanna/).
