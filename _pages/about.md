@@ -17,13 +17,13 @@ I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/
 Before starting at HMC, I received my PhD in the [Graduate Group in Applied Mathematics](http://appliedmath.ucdavis.edu/) at the University of California, Davis where I was fortunate to be advised by [Professor Jesús A. De Loera](https://www.math.ucdavis.edu/~deloera), and then was a CAM Assistant Professor (post-doc) in the University of California, Los Angeles (UCLA) [Mathematics Department](https://ww3.math.ucla.edu/) where my exceptional postdoctoral mentor was [Professor Deanna Needell](https://www.math.ucla.edu/~deanna/).
 
 
-<br>Contact
+<!--<br>Contact
 ===========
 Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 <br>Office: Shanahan 2408
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jamie-haddock'});return false;">Schedule time with me</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jamie-haddock'});return false;">Schedule time with me</a>-->
 
 
 
