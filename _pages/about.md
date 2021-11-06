@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-![visualization of residual of iterative projection method for linear inequalities](../images/residual.png)
+<!--![visualization of residual of iterative projection method for linear inequalities](../images/residual.png)-->
+<figure style="float: left; margin-right:50px; width:100%"><img src="../images/residual.png"></figure>
 
 I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/mathematics/) at [Harvey Mudd College](https://www.hmc.edu/). My research focuses are in mathematical data science, optimization, and applied convex geometry.  I leverage mathematical tools, such as those from probability, combinatorics, and convex geometry, on problems in data science and optimization. Areas in which I have been active recently include randomized numerical linear algebra, combinatorial methods for convex optimization, tensor decomposition for topic modeling, network consensus and ranking problems, and community detection on graphs and hypergraphs.
 
