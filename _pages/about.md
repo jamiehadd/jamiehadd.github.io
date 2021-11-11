@@ -29,6 +29,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>November '21: </b> We (with student Chen Yap) submitted our paper <a href="https://arxiv.org/abs/2110.14609">Paving the Way for Consensus: Convergence of Block Gossip Algorithms</a>!  In this paper, we prove a new convergence bound for a broader class of randomized block Kaczmarz methods on a broader class of inconsistent linear systems, then utilize this convergence bound to prove convergence of the block gossip methods for average consensus.  We additionally specify the result to three popular types of block gossip protocols which utilize specific subgraph structures to iteratively update towards consensus.
+
 <b>September '21: </b> Our papers "Neural Nonnegative CP Decomposition for Hierarchical Tensor Analysis" (with student <a href="http://www.joshvendrow.com/">Josh Vendrow</a>) and <a href="https://arxiv.org/abs/2010.07956">"Semi-supervised Nonnegative Matrix Factorization for Document Classification"</a> (with student Sixian Li) were accepted to the proceedings of the 55th Asilomar Conference on Signals, Systems, and Computers!  During that conference, I will additionally chair the session "Algorithms for Data Analytics".
 
 <b>September '21: </b> I am coorganizing the MAA Session "Establishing Interdisciplinary Collaborations in Teaching and Research" at the Joint Mathematics Meeting in Seattle, WA January 5-8, 2022 with Jessica Oehrlein (Fitchburg State University)!  We have a great set of speakers who will lead an interactive session on how beginning and sustaining interdisciplinary collaboration with academics outside mathematics and industrial colleagues.
