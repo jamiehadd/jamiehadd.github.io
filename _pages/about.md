@@ -29,6 +29,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>January '22: </b> I am coorganizing the MAA Session "Establishing Interdisciplinary Collaborations in Teaching and Research" at the Joint Mathematics Meeting (virtual) April 6-9, 2022 with Jessica Oehrlein (Fitchburg State University)!  We have a great set of speakers who will lead an interactive session on how beginning and sustaining interdisciplinary collaboration with academics outside mathematics and industrial colleagues.
+
 <b>December '21: </b> Our paper <a href="https://arxiv.org/abs/2009.08089">Quantile-based Iterative Methods for Corrupted Systems of Linear Equations</a> was accepted for publication in SIAM Journal on Matrix Analysis and Applications (SIMAX)!  In this paper, we propose iterative methods for solving large-scale and arbitrarily corrupted systems of equations.  We provide both theoretical and empirical evidence of the promise of these methods; our theoretical results build upon new and classical results in high-dimensional probability.
 
 <!-- <b>December '21: </b> I am co-organizing the Southern California Applied Mathematics Symposium (SOCAMS) with Heather Zinn-Brooks (Harvey Mudd College), Christina Edholm (Scripps College), Manuchehr Aminian (Cal Poly Pomona), Phil Chodrow (UCLA), Anna Ma (UCI), Adam MacLean (USC), Chris Miles (UCI), and Alona Kryshchenko (CSU Channel Islands).  This one-day meeting will be held on the campus of Harvey Mudd College on April 9, 2022!  This conference aims to bring together researchers from universities throughout Southern California, working in all areas of Applied Mathematics, for a one-day exchange of ideas in an informal and collaborative atmosphere -- check back soon for links to submit your work and register to participate. -->
@@ -39,7 +41,7 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>September '21: </b> Our papers "Neural Nonnegative CP Decomposition for Hierarchical Tensor Analysis" (with student <a href="http://www.joshvendrow.com/">Josh Vendrow</a>) and <a href="https://arxiv.org/abs/2010.07956">"Semi-supervised Nonnegative Matrix Factorization for Document Classification"</a> (with student Sixian Li) were accepted to the proceedings of the 55th Asilomar Conference on Signals, Systems, and Computers!  During that conference, I will additionally chair the session "Algorithms for Data Analytics".
 
-<!-- <b>September '21: </b> I am coorganizing the MAA Session "Establishing Interdisciplinary Collaborations in Teaching and Research" at the Joint Mathematics Meeting in Seattle, WA January 5-8, 2022 with Jessica Oehrlein (Fitchburg State University)!  We have a great set of speakers who will lead an interactive session on how beginning and sustaining interdisciplinary collaboration with academics outside mathematics and industrial colleagues.
+<!--
 
 <b>June '21: </b> I was selected for the MAA Project NExT Gold'21 cohort!  <a href="https://www.maa.org/programs-and-communities/professional-development/project-next">Project NExT</a> (New Experiences in Teaching) is a year-long professional development program for early career mathematicians that addresses all aspects of an academic career. Looking forward to participating in this program and to meeting the rest of the cohort!
 
