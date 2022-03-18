@@ -29,7 +29,7 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
-<b>March '22: </b> I am participating in the <a href="https://www.ias.edu/math/wam/program-years/2022-program-women-and-mathematics">IAS Women and Mathematics “The Mathematics of Machine Learning" at the Institute of Advanced Studies in Princeton, NJ!  This program will be held from May 21-27, 2022 and will feature lectures by Cynthia Rudin (Duke University) and Maria-Florina Balcan (Carnegie Mellon University).  Looking forward to meeting an exceptional group of faculty and students and learning about some great new topics!
+<b>March '22: </b> I am participating in the <a href="https://www.ias.edu/math/wam/program-years/2022-program-women-and-mathematics">IAS Women and Mathematics “The Mathematics of Machine Learning"</a> at the Institute of Advanced Studies in Princeton, NJ!  This program will be held from May 21-27, 2022 and will feature lectures by Cynthia Rudin (Duke University) and Maria-Florina Balcan (Carnegie Mellon University).  Looking forward to meeting an exceptional group of faculty and students and learning about some great new topics!
 
 <b>March '22: </b> I am participating in the <a href="https://www.ams.org/programs/research-communities/2022MRC-HyperNet">AMS MRC program "Models and Methods for Sparse (Hyper)Network Science "</a> as an assistant to the organizers!  This program will be held June 5-11, 2022 at Beaver Hollow Conference Center in Java Center, NY and will deal with graph and hypergraph models and their applications to real world study of critical systems.  Looking forward to the opportunity to learn and network with this exceptional community.
 
