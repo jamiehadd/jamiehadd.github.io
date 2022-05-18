@@ -51,11 +51,11 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>December '21: </b> Our paper <a href="https://arxiv.org/abs/2009.08089">Quantile-based Iterative Methods for Corrupted Systems of Linear Equations</a> was accepted for publication in SIAM Journal on Matrix Analysis and Applications (SIMAX)!  In this paper, we propose iterative methods for solving large-scale and arbitrarily corrupted systems of equations.  We provide both theoretical and empirical evidence of the promise of these methods; our theoretical results build upon new and classical results in high-dimensional probability.
 
-
+<!--
 
 <b>November '21: </b> We (with student Chen Yap) submitted our paper <a href="https://arxiv.org/abs/2110.14609">Paving the Way for Consensus: Convergence of Block Gossip Algorithms</a>!  In this paper, we prove a new convergence bound for a broader class of randomized block Kaczmarz methods on a broader class of inconsistent linear systems, then utilize this convergence bound to prove convergence of the block gossip methods for average consensus.  We additionally specify the result to three popular types of block gossip protocols which utilize specific subgraph structures to iteratively update towards consensus.
 
-<!--
+
 
 <b>September '21: </b> Our papers "Neural Nonnegative CP Decomposition for Hierarchical Tensor Analysis" (with student <a href="http://www.joshvendrow.com/">Josh Vendrow</a>) and <a href="https://arxiv.org/abs/2010.07956">"Semi-supervised Nonnegative Matrix Factorization for Document Classification"</a> (with student Sixian Li) were accepted to the proceedings of the 55th Asilomar Conference on Signals, Systems, and Computers!  During that conference, I will additionally chair the session "Algorithms for Data Analytics".
 
