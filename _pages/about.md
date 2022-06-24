@@ -29,6 +29,12 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>June '22: </b> In 2022-2023, I am co-organizing the <a href="https://sites.google.com/view/minds-seminar/home">One World Mathematics of Information, Data, and Signals (MINDS) Seminar</a>!  Given the impossibility of travel during the COVID-19 crisis the One World MINDS seminar was founded as an inter-institutional global online seminar aimed at giving researchers interested in mathematical data science, computational harmonic analysis, and related applications access to high quality talks. Talks are held on Thursdays either at 2:30 pm New York time or at 4:30 pm Shanghai/ 9:30 am (summer 10:30 am) Paris time.
+
+<b> June '22: </b> Our (with co-organizer Phil Chodrow) minisymposium on "Tensor Methods for Network Data Science" was accepted to the SIAM Conference on the Mathematics of Data Science (MDS22) which is to be held in San Diego, CA in September 2022!  We have four fabulous speakers, Izabel P. Aguiar (Stanford University), Tamara Kolda (MathSci.ai), “Bill” Feng Shi (TigerGraph), and Francesco Tudisco (GSSI), who will speak about the exciting new developments of tensor-based methods for data science problems related to networks.
+
+<b> June '22: </b> This month I have the honor of speaking in the Harvey Mudd College <a href="https://www.hmc.edu/calendar/events/stauffer-lecture-tensor-models-methods-and-medicine-jamie-haddock/">Stauffer Lecture series</a> where I will describe my work in "Tensor Models, Methods, and Medicine."  Additionally, I will speak (virtually) to the Rice University <a href="https://datascience.ericchi.com/#:~:text=Data%20Scientists%20in%20Training%20Outreach,data%20science%20methods%20and%20careers.">"Data Scientists in Training" Outreach Program</a> where I will describe my path to research in mathematical data science!
+
 <b>May '22: </b> Check out this *amazing* <a href="https://youtu.be/SclGSdwB7M4">video</a> my summer 2021 research student Hannah Kaufman made!  In it, she illustrates how the Kaczmarz method works for solving linear systems, and presents an application to the problem of rating items according to pairwise comparison information.  Way to go, Hannah!!
 
 <b>April '22: </b> We (with collaborators Phil Chodrow and Nicole Eikmeier) submitted our paper <a href="https://arxiv.org/abs/2204.13586">Nonbacktracking spectral clustering of nonuniform hypergraphs</a>!  In this paper, we propose methods for community detection on nonuniform (containing edges of different sizes) hypergraphs -- one is a simple spectral approach using the nonbacktracking operator and the other is an alternating approach based upon linearized belief-propagation (the nonbacktracking operator appears here too!).  We additionally provide some theorems that improve computational complexity of working with the nonbacktracking operator and other large matrices appearing in our methods.
@@ -49,9 +55,11 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>January '22: </b> I am coorganizing the MAA Session "Establishing Interdisciplinary Collaborations in Teaching and Research" at the Joint Mathematics Meeting (virtual) April 6-9, 2022 with Jessica Oehrlein (Fitchburg State University)!  Due to the transition to virtual format and the challenges of scheduling, this session will occur in March.  We have a great set of speakers who will lead an interactive session on how beginning and sustaining interdisciplinary collaboration with academics outside mathematics and industrial colleagues.
 
+<!--
+
 <b>December '21: </b> Our paper <a href="https://arxiv.org/abs/2009.08089">Quantile-based Iterative Methods for Corrupted Systems of Linear Equations</a> was accepted for publication in SIAM Journal on Matrix Analysis and Applications (SIMAX)!  In this paper, we propose iterative methods for solving large-scale and arbitrarily corrupted systems of equations.  We provide both theoretical and empirical evidence of the promise of these methods; our theoretical results build upon new and classical results in high-dimensional probability.
 
-<!--
+
 
 <b>November '21: </b> We (with student Chen Yap) submitted our paper <a href="https://arxiv.org/abs/2110.14609">Paving the Way for Consensus: Convergence of Block Gossip Algorithms</a>!  In this paper, we prove a new convergence bound for a broader class of randomized block Kaczmarz methods on a broader class of inconsistent linear systems, then utilize this convergence bound to prove convergence of the block gossip methods for average consensus.  We additionally specify the result to three popular types of block gossip protocols which utilize specific subgraph structures to iteratively update towards consensus.
 
