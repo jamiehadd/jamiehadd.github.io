@@ -51,11 +51,12 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>February '22: </b>Applications are now open for my funded summer undergraduate research projects <a href="https://uro.hmc.edu/projects">Tensor Models and Methods for Medical Imaging</a>, <a href="https://uro.hmc.edu/projects">Numerical Linear Algebraic Analyses of Opinion Dynamics on Networks</a>, and <a href="https://uro.hmc.edu/projects">Iterative Methods for Large-scale Systems of Linear Equations</a>!  Applications may be submitted via the HMC URO portal until February 20.
 
+<!--
+
 <b>January '22: </b> Our (with student <a href="http://www.joshvendrow.com/">Josh Vendrow</a>) paper <a href="https://arxiv.org/abs/2109.14820">A Generalized Hierarchical Nonnegative Tensor Decomposition</a> was accepted to the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)!  In this paper, we propose a hierarchical tensor decomposition model that generalizes a natural model for matrices, a property which many hierarchical tensor decomposition models lack.  This model naturally illuminates the hierarchy of latent topics in tensor-structured data.
 
 <b>January '22: </b> I am coorganizing the MAA Session "Establishing Interdisciplinary Collaborations in Teaching and Research" at the Joint Mathematics Meeting (virtual) April 6-9, 2022 with Jessica Oehrlein (Fitchburg State University)!  Due to the transition to virtual format and the challenges of scheduling, this session will occur in March.  We have a great set of speakers who will lead an interactive session on how beginning and sustaining interdisciplinary collaboration with academics outside mathematics and industrial colleagues.
 
-<!--
 
 <b>December '21: </b> Our paper <a href="https://arxiv.org/abs/2009.08089">Quantile-based Iterative Methods for Corrupted Systems of Linear Equations</a> was accepted for publication in SIAM Journal on Matrix Analysis and Applications (SIMAX)!  In this paper, we propose iterative methods for solving large-scale and arbitrarily corrupted systems of equations.  We provide both theoretical and empirical evidence of the promise of these methods; our theoretical results build upon new and classical results in high-dimensional probability.
 
