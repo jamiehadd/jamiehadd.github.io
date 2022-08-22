@@ -47,11 +47,13 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>March '22: </b> I am co-organizing the Southern California Applied Mathematics Symposium (SOCAMS) with Heather Zinn-Brooks (Harvey Mudd College), Christina Edholm (Scripps College), Manuchehr Aminian (Cal Poly Pomona), Phil Chodrow (UCLA), Anna Ma (UCI), Adam MacLean (USC), Chris Miles (UCI), and Alona Kryshchenko (CSU Channel Islands).  This one-day meeting will be held on the campus of Harvey Mudd College on May 21, 2022!  This conference aims to bring together researchers from universities throughout Southern California, working in all areas of Applied Mathematics, for a one-day exchange of ideas in an informal and collaborative atmosphere. More information and registration available at <a href="https://www.socams.org">https://www.socams.org"</a>!
 
+<!--
+
 <b>February '22: </b> Elizaveta Rebrova (Princeton Univ. ORFE) and I are organizing sessions titled "Randomized Iterative Methods beyond Least-squares" and "Tensor Modeling and Optimization" for the "Optimization for Data Science and Machine learning" cluster at the seventh <a href="https://iccopt2022.lehigh.edu/">International Conference on Continuous Optimization (ICCOPT)</a> which will take place at Lehigh University in Bethlehem, Pennsylvania during July 25-28, 2022.  We have two great slates of speakers organized to speak on these topics!
 
 <b>February '22: </b>Applications are now open for my funded summer undergraduate research projects <a href="https://uro.hmc.edu/projects">Tensor Models and Methods for Medical Imaging</a>, <a href="https://uro.hmc.edu/projects">Numerical Linear Algebraic Analyses of Opinion Dynamics on Networks</a>, and <a href="https://uro.hmc.edu/projects">Iterative Methods for Large-scale Systems of Linear Equations</a>!  Applications may be submitted via the HMC URO portal until February 20.
 
-<!--
+
 
 <b>January '22: </b> Our (with student <a href="http://www.joshvendrow.com/">Josh Vendrow</a>) paper <a href="https://arxiv.org/abs/2109.14820">A Generalized Hierarchical Nonnegative Tensor Decomposition</a> was accepted to the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)!  In this paper, we propose a hierarchical tensor decomposition model that generalizes a natural model for matrices, a property which many hierarchical tensor decomposition models lack.  This model naturally illuminates the hierarchy of latent topics in tensor-structured data.
 
