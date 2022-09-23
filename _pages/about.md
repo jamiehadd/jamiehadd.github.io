@@ -43,13 +43,15 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>April '22: </b> Our (with student Edwin Chau) paper <a href="https://arxiv.org/abs/2010.10635">On Application of Block Kaczmarz Methods in Matrix Factorization</a> was accepted to SIAM Undergraduate Research Online (SIURO)!  In this work, we discuss and test a block Kaczmarz solver that replaces the least-squares subroutine in the common alternating scheme for matrix factorization. This variant trades a small increase in factorization error for significantly faster algorithmic performance. In doing so we find block sizes that produce a solution comparable to that of the least-squares solver for only a fraction of the runtime and working memory requirement!
 
+<!--
+
 <b>March '22: </b> I am participating in the <a href="https://www.ias.edu/math/wam/program-years/2022-program-women-and-mathematics">IAS Women and Mathematics “The Mathematics of Machine Learning"</a> at the Institute of Advanced Studies in Princeton, NJ!  This program will be held from May 21-27, 2022 and will feature lectures by Cynthia Rudin (Duke University) and Maria-Florina Balcan (Carnegie Mellon University).  Looking forward to meeting an exceptional group of faculty and students and learning about some great new topics!
 
 <b>March '22: </b> I am participating in the <a href="https://www.ams.org/programs/research-communities/2022MRC-HyperNet">AMS MRC program "Models and Methods for Sparse (Hyper)Network Science "</a> as an assistant to the organizers!  This program will be held June 5-11, 2022 at Beaver Hollow Conference Center in Java Center, NY and will deal with graph and hypergraph models and their applications to real world study of critical systems.  Looking forward to the opportunity to learn and network with this exceptional community.
 
 <b>March '22: </b> I am co-organizing the Southern California Applied Mathematics Symposium (SOCAMS) with Heather Zinn-Brooks (Harvey Mudd College), Christina Edholm (Scripps College), Manuchehr Aminian (Cal Poly Pomona), Phil Chodrow (UCLA), Anna Ma (UCI), Adam MacLean (USC), Chris Miles (UCI), and Alona Kryshchenko (CSU Channel Islands).  This one-day meeting will be held on the campus of Harvey Mudd College on May 21, 2022!  This conference aims to bring together researchers from universities throughout Southern California, working in all areas of Applied Mathematics, for a one-day exchange of ideas in an informal and collaborative atmosphere. More information and registration available at <a href="https://www.socams.org">https://www.socams.org"</a>!
 
-<!--
+
 
 <b>February '22: </b> Elizaveta Rebrova (Princeton Univ. ORFE) and I are organizing sessions titled "Randomized Iterative Methods beyond Least-squares" and "Tensor Modeling and Optimization" for the "Optimization for Data Science and Machine learning" cluster at the seventh <a href="https://iccopt2022.lehigh.edu/">International Conference on Continuous Optimization (ICCOPT)</a> which will take place at Lehigh University in Bethlehem, Pennsylvania during July 25-28, 2022.  We have two great slates of speakers organized to speak on these topics!
 
