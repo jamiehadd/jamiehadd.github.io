@@ -29,6 +29,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>October '22: </b> The international seminar <a href="https://sites.google.com/view/minds-seminar/home">One World Mathematics of Information, Data, and Signals (MINDS)</a> has created a Slack workspace for sharing announcements of interest to our community and connecting with other members!  If you are interested in joining this Slack workspace, please follow the link provided at the top of our <a href="https://sites.google.com/view/minds-seminar/home">1W-MINDS website</a>.
+
 <b>August '22: </b> Our paper (with student Chen Yap and collaborator Ben Jarman) <a href="https://arxiv.org/abs/2110.14609">Paving the Way for Consensus: Convergence of Block Gossip Algorithms</a> was accepted to the IEEE Transactions on Information Theory journal!  In this paper, we prove a new convergence bound for a broader class of randomized block Kaczmarz methods on a broader class of inconsistent linear systems, then utilize this convergence bound to prove convergence of the block gossip methods for average consensus.  We additionally specify the result to three popular types of block gossip protocols which utilize specific subgraph structures to iteratively update towards consensus.
 
 <b>June '22: </b> In 2022-2023, I am co-organizing the <a href="https://sites.google.com/view/minds-seminar/home">One World Mathematics of Information, Data, and Signals (MINDS) Seminar</a>!  Given the impossibility of travel during the COVID-19 crisis the One World MINDS seminar was founded as an inter-institutional global online seminar aimed at giving researchers interested in mathematical data science, computational harmonic analysis, and related applications access to high quality talks. Talks are held on Thursdays either at 2:30 pm New York time or at 4:30 pm Shanghai/ 9:30 am (summer 10:30 am) Paris time.
@@ -39,11 +41,13 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>May '22: </b> Check out this *amazing* <a href="https://youtu.be/SclGSdwB7M4">video</a> my summer 2021 research student Hannah Kaufman made!  In it, she illustrates how the Kaczmarz method works for solving linear systems, and presents an application to the problem of rating items according to pairwise comparison information.  Way to go, Hannah!!
 
+<!--
+
 <b>April '22: </b> We (with collaborators Phil Chodrow and Nicole Eikmeier) submitted our paper <a href="https://arxiv.org/abs/2204.13586">Nonbacktracking spectral clustering of nonuniform hypergraphs</a>!  In this paper, we propose methods for community detection on nonuniform (containing edges of different sizes) hypergraphs -- one is a simple spectral approach using the nonbacktracking operator and the other is an alternating approach based upon linearized belief-propagation (the nonbacktracking operator appears here too!).  We additionally provide some theorems that improve computational complexity of working with the nonbacktracking operator and other large matrices appearing in our methods.
 
 <b>April '22: </b> Our (with student Edwin Chau) paper <a href="https://arxiv.org/abs/2010.10635">On Application of Block Kaczmarz Methods in Matrix Factorization</a> was accepted to SIAM Undergraduate Research Online (SIURO)!  In this work, we discuss and test a block Kaczmarz solver that replaces the least-squares subroutine in the common alternating scheme for matrix factorization. This variant trades a small increase in factorization error for significantly faster algorithmic performance. In doing so we find block sizes that produce a solution comparable to that of the least-squares solver for only a fraction of the runtime and working memory requirement!
 
-<!--
+
 
 <b>March '22: </b> I am participating in the <a href="https://www.ias.edu/math/wam/program-years/2022-program-women-and-mathematics">IAS Women and Mathematics “The Mathematics of Machine Learning"</a> at the Institute of Advanced Studies in Princeton, NJ!  This program will be held from May 21-27, 2022 and will feature lectures by Cynthia Rudin (Duke University) and Maria-Florina Balcan (Carnegie Mellon University).  Looking forward to meeting an exceptional group of faculty and students and learning about some great new topics!
 
