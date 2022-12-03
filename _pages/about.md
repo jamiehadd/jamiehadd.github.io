@@ -12,9 +12,11 @@ redirect_from:
 <!--![visualization of residual of iterative projection method for linear inequalities](../images/residual.png)-->
 <figure style="float: left; margin-right:50px; width:100%"><img src="../images/residual.png" alt="visualization of residual of iterative projection method for linear inequalities"></figure>
 
-I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/mathematics/) at [Harvey Mudd College](https://www.hmc.edu/). My research focuses are in mathematical data science, optimization, and applied convex geometry.  I leverage mathematical tools, such as those from probability, combinatorics, and convex geometry, on problems in data science and optimization. Areas in which I have been active recently include randomized numerical linear algebra, combinatorial methods for convex optimization, tensor decomposition for topic modeling, network consensus and ranking problems, and community detection on graphs and hypergraphs.
+I am an Assistant Professor in the [Mathematics Department](https://www.hmc.edu/mathematics/) at [Harvey Mudd College](https://www.hmc.edu/). My research focuses are in mathematical data science, optimization, and applied convex geometry.  I leverage mathematical tools, such as those from probability, combinatorics, and convex geometry, on problems in data science and optimization. Areas in which I have been active recently include randomized numerical linear algebra, combinatorial methods for convex optimization, tensor decomposition for topic modeling, network consensus and ranking problems, and community detection on graphs and hypergraphs.  My research is supported by NSF DMS \#2211318 "Tensor Models, Methods, and Medicine".
 
 Before starting at HMC, I received my PhD in the [Graduate Group in Applied Mathematics](http://appliedmath.ucdavis.edu/) at the University of California, Davis where I was fortunate to be advised by [Professor Jesús A. De Loera](https://www.math.ucdavis.edu/~deloera), and then was a CAM Assistant Professor (post-doc) in the University of California, Los Angeles (UCLA) [Mathematics Department](https://ww3.math.ucla.edu/) where my exceptional postdoctoral mentor was [Professor Deanna Needell](https://www.math.ucla.edu/~deanna/).
+
+
 
 
 <!--<br>Contact
@@ -29,6 +31,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>December '22: </b> I had the opportunity to speak in the "Multi-Modal Imaging with Deep Learning and Modeling" workshop at IPAM!  This was a great week-long workshop in the long program "Computational Microscopy".  My <a href="https://youtu.be/0-kwIBAQ1hg">talk</a> was titled "Hierarchical and Neural Nonnegative Tensor Decompositions" and presented several works developing hierarchical topic models for tensor data.  Thanks to the organizers for a great program!
+
 <b>November '22: </b> Our paper (with collaborators Phil Chodrow and Nicole Eikmeier) <a href="https://arxiv.org/abs/2204.13586">Nonbacktracking spectral clustering of nonuniform hypergraphs</a> was accepted to SIAM Journal on Mathematics of Data Science (SIMODS)!  In this paper, we propose methods for community detection on nonuniform (containing edges of different sizes) hypergraphs -- one is a simple spectral approach using the nonbacktracking operator and the other is an alternating approach based upon linearized belief-propagation (the nonbacktracking operator appears here too!).  We additionally provide some theorems that improve computational complexity of working with the nonbacktracking operator and other large matrices appearing in our methods.
 
 <b>November '22: </b> Our paper <a href="https://arxiv.org/pdf/2209.02415v1.pdf">Interpretability of Automatic Infectious Disease Classification Analysis with Concept Discovery</a> was accepted to the <a href="https://ml4health.github.io/2022/">Machine Learning 4 Health (ML4H)</a> conference!  This paper will be presented as a poster in New Orleans at the end of November 2022.
