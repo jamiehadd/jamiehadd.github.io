@@ -31,7 +31,7 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
-<b>January '23: </b> Our paper (with students Hanah Friedman, Amani R. Maina-Kilaas, Julianna Schalkwyk, and Hina Ahmed) <a href="https://arxiv.org/abs/2207.05112">An Interpretable Joint Nonnegative Matrix Factorization-Based Point Cloud Distance Measure</a> was accepted for presentation at and publication in the proceedings of the 57th Annual Conference on Information Sciences and Systems (CISS) at Johns Hopkins University!  We will present this paper at the conference March 22-24, 2023.
+<b>January '23: </b> Our paper (with students Hannah Friedman, Amani R. Maina-Kilaas, Julianna Schalkwyk, and Hina Ahmed) <a href="https://arxiv.org/abs/2207.05112">An Interpretable Joint Nonnegative Matrix Factorization-Based Point Cloud Distance Measure</a> was accepted for presentation at and publication in the proceedings of the 57th Annual Conference on Information Sciences and Systems (CISS) at Johns Hopkins University!  We will present this paper at the conference March 22-24, 2023.
 
 <b>December '22: </b> I have some upcoming visits and talks in early Spring!  I will be visiting Caltech on January 25th to speak in the <a href="http://cmx.caltech.edu/">Computational Mathematics + X (CMX) Lunch Seminar</a>.  I will be spending a half-day for lunch and meetings in the afternoon after my talk!  Additionally, I will be visiting UCI on February 22nd to speak in the <a href="https://www.math.uci.edu/seminar_list/Combinatorics%20and%20Probability">Probability and Combinatorics Seminar</a>!  I will be spending the afternoon on campus for lunch and meetings also.
 
