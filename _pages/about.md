@@ -31,6 +31,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>March '23: </b> We (with students Tyler Will, Joshua Vendrow, Runyu Zhang, Mengdi Gao, and Eli Sadovnik, and colleagues Denali Molitor and Deanna Needell) submitted our paper <a href="https://arxiv.org/abs/2303.00058">Neural Nonnegative Matrix Factorization for Hierarchical Multilayer Topic Modeling</a>!  In this paper, we introduce a new model based on nonnegative matrix factorization (NMF) for detecting latent hierarchical structure in data, which we call Neural NMF.  This model frames hierarchical NMF as a neural network, and we provide theoretical results which allow us to train Neural NMF via a natural backpropagation method. We illustrate the promise of this model with several numerical experiments on benchmark datasets and real world data.
+
 <b>February '23: </b> I will give the plenary talk for the residential component of the <a href="https://www.hmc.edu/admission/wistem/">Harvey Mudd College  "Women’s Inclusion in Science, Technology, Engineering, and Mathematics (WISTEM)" program</a>.  WISTEM is a 6-month program that requires participants to engage with an on-campus residential component and interactive online sessions. Through the virtual program and visit to campus, WISTEM will connect participating students with a cohort of like-minded peers, help participants learn more about admission, and strengthen their understanding of the experiences of women in STEM, with a particular focus on the experiences of women of color.  I'm very excited to be involved with this great program and to meet some fabulous high school students!
 
 <b>January '23: </b> Our paper (with students Hannah Friedman, Amani R. Maina-Kilaas, Julianna Schalkwyk, and Hina Ahmed) <a href="https://arxiv.org/abs/2207.05112">An Interpretable Joint Nonnegative Matrix Factorization-Based Point Cloud Distance Measure</a> was accepted for presentation at and publication in the proceedings of the 57th Annual Conference on Information Sciences and Systems (CISS) at Johns Hopkins University!  We will present this paper at the conference March 22-24, 2023.
@@ -45,9 +47,11 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>October '22: </b> The international seminar <a href="https://sites.google.com/view/minds-seminar/home">One World Mathematics of Information, Data, and Signals (MINDS)</a> has created a Slack workspace for sharing announcements of interest to our community and connecting with other members!  If you are interested in joining this Slack workspace, please follow the link provided at the top of our <a href="https://sites.google.com/view/minds-seminar/home">1W-MINDS website</a>.
 
+<!--
+
 <b>August '22: </b> Our paper (with student Chen Yap and collaborator Ben Jarman) <a href="https://arxiv.org/abs/2110.14609">Paving the Way for Consensus: Convergence of Block Gossip Algorithms</a> was accepted to the IEEE Transactions on Information Theory journal!  In this paper, we prove a new convergence bound for a broader class of randomized block Kaczmarz methods on a broader class of inconsistent linear systems, then utilize this convergence bound to prove convergence of the block gossip methods for average consensus.  We additionally specify the result to three popular types of block gossip protocols which utilize specific subgraph structures to iteratively update towards consensus.
 
-<!--
+
 
 <b>June '22: </b> In 2022-2023, I am co-organizing the <a href="https://sites.google.com/view/minds-seminar/home">One World Mathematics of Information, Data, and Signals (MINDS) Seminar</a>!  Given the impossibility of travel during the COVID-19 crisis the One World MINDS seminar was founded as an inter-institutional global online seminar aimed at giving researchers interested in mathematical data science, computational harmonic analysis, and related applications access to high quality talks. Talks are held on Thursdays either at 2:30 pm New York time or at 4:30 pm Shanghai/ 9:30 am (summer 10:30 am) Paris time.
 
