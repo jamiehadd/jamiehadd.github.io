@@ -47,9 +47,10 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>November '22: </b> Our paper <a href="https://arxiv.org/pdf/2209.02415v1.pdf">Interpretability of Automatic Infectious Disease Classification Analysis with Concept Discovery</a> was accepted to the <a href="https://ml4health.github.io/2022/">Machine Learning 4 Health (ML4H)</a> conference!  This paper will be presented as a poster in New Orleans at the end of November 2022.
 
+<!--
+
 <b>October '22: </b> The international seminar <a href="https://sites.google.com/view/minds-seminar/home">One World Mathematics of Information, Data, and Signals (MINDS)</a> has created a Slack workspace for sharing announcements of interest to our community and connecting with other members!  If you are interested in joining this Slack workspace, please follow the link provided at the top of our <a href="https://sites.google.com/view/minds-seminar/home">1W-MINDS website</a>.
 
-<!--
 
 <b>August '22: </b> Our paper (with student Chen Yap and collaborator Ben Jarman) <a href="https://arxiv.org/abs/2110.14609">Paving the Way for Consensus: Convergence of Block Gossip Algorithms</a> was accepted to the IEEE Transactions on Information Theory journal!  In this paper, we prove a new convergence bound for a broader class of randomized block Kaczmarz methods on a broader class of inconsistent linear systems, then utilize this convergence bound to prove convergence of the block gossip methods for average consensus.  We additionally specify the result to three popular types of block gossip protocols which utilize specific subgraph structures to iteratively update towards consensus.
 
