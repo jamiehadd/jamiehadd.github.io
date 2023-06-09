@@ -31,6 +31,9 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>May '23: </b> I'm serving on the organizing committee for the third SIAM Conference on the Mathematics of Data Science (SIAM MDS) in 2024!  SIAM MDS is a biennial conference of the SIAM Activity Group on Data Science and “aims to bring together those who are building foundations for data science and its applications across science, engineering, technology, and society.” The organizing committee shapes and defines the scientific program of the conference, e.g., identify invited speakers, choose mini-tutorials, etc.  I'm very excited to help plan this amazing conference!
+
+
 <b>April '23: </b> I was featured in the April 2023 Academic Data Science Alliance (<a href="https://academicdatascience.org/">ADSA</a>) Career Development Network Round-up (newsletter) and <a href="https://academicdatascience.org/resources/meet-a-data-scientist-jamie-haddock/">blog</a>!
 
 <b>March '23: </b> We (with students Tyler Will, Joshua Vendrow, Runyu Zhang, Mengdi Gao, and Eli Sadovnik, and colleagues Denali Molitor and Deanna Needell) submitted our paper <a href="https://arxiv.org/abs/2303.00058">Neural Nonnegative Matrix Factorization for Hierarchical Multilayer Topic Modeling</a>!  In this paper, we introduce a new model based on nonnegative matrix factorization (NMF) for detecting latent hierarchical structure in data, which we call Neural NMF.  This model frames hierarchical NMF as a neural network, and we provide theoretical results which allow us to train Neural NMF via a natural backpropagation method. We illustrate the promise of this model with several numerical experiments on benchmark datasets and real world data.
@@ -38,6 +41,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 <b>February '23: </b> I will give the plenary talk for the residential component of the <a href="https://www.hmc.edu/admission/wistem/">Harvey Mudd College  "Women’s Inclusion in Science, Technology, Engineering, and Mathematics (WISTEM)" program</a>.  WISTEM is a 6-month program that requires participants to engage with an on-campus residential component and interactive online sessions. Through the virtual program and visit to campus, WISTEM will connect participating students with a cohort of like-minded peers, help participants learn more about admission, and strengthen their understanding of the experiences of women in STEM, with a particular focus on the experiences of women of color.  I'm very excited to be involved with this great program and to meet some fabulous high school students!
 
 <b>January '23: </b> Our paper (with students Hannah Friedman, Amani R. Maina-Kilaas, Julianna Schalkwyk, and Hina Ahmed) <a href="https://arxiv.org/abs/2207.05112">An Interpretable Joint Nonnegative Matrix Factorization-Based Point Cloud Distance Measure</a> was accepted for presentation at and publication in the proceedings of the 57th Annual Conference on Information Sciences and Systems (CISS) at Johns Hopkins University!  We will present this paper at the conference March 22-24, 2023.
+
+<!--
 
 <b>December '22: </b> I have some upcoming visits and talks in early Spring!  I will be visiting Caltech on January 25th to speak in the <a href="http://cmx.caltech.edu/">Computational Mathematics + X (CMX) Lunch Seminar</a>.  I will be spending a half-day for lunch and meetings in the afternoon after my talk!  Additionally, I will be visiting UCI on February 22nd to speak in the <a href="https://www.math.uci.edu/seminar_list/Combinatorics%20and%20Probability">Probability and Combinatorics Seminar</a>!  I will be spending the afternoon on campus for lunch and meetings also.
 
@@ -47,7 +52,7 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>November '22: </b> Our paper <a href="https://arxiv.org/pdf/2209.02415v1.pdf">Interpretability of Automatic Infectious Disease Classification Analysis with Concept Discovery</a> was accepted to the <a href="https://ml4health.github.io/2022/">Machine Learning 4 Health (ML4H)</a> conference!  This paper will be presented as a poster in New Orleans at the end of November 2022.
 
-<!--
+
 
 <b>October '22: </b> The international seminar <a href="https://sites.google.com/view/minds-seminar/home">One World Mathematics of Information, Data, and Signals (MINDS)</a> has created a Slack workspace for sharing announcements of interest to our community and connecting with other members!  If you are interested in joining this Slack workspace, please follow the link provided at the top of our <a href="https://sites.google.com/view/minds-seminar/home">1W-MINDS website</a>.
 
