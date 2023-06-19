@@ -31,8 +31,9 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
-<b>May '23: </b> I'm serving on the organizing committee for the third SIAM Conference on the Mathematics of Data Science (SIAM MDS) in 2024!  SIAM MDS is a biennial conference of the SIAM Activity Group on Data Science and “aims to bring together those who are building foundations for data science and its applications across science, engineering, technology, and society.” The organizing committee shapes and defines the scientific program of the conference, e.g., identify invited speakers, choose mini-tutorials, etc.  I'm very excited to help plan this amazing conference!
+<b>June '23: </b> I've published all course materials for my course <a href="https://github.com/jamiehadd/Math189AD-MathematicalDataScienceAndTopicModeling">"Mathematical Data Science & Topic Modeling"</a>!  All slides, code, and assignments are available and free to be used, edited, and shared.  If you find use of these materials, please cite this repository and consider letting me know your impressions and any typos/errors you catch!
 
+<b>May '23: </b> I'm serving on the organizing committee for the third SIAM Conference on the Mathematics of Data Science (SIAM MDS) in 2024!  SIAM MDS is a biennial conference of the SIAM Activity Group on Data Science and “aims to bring together those who are building foundations for data science and its applications across science, engineering, technology, and society.” The organizing committee shapes and defines the scientific program of the conference, e.g., identify invited speakers, choose mini-tutorials, etc.  I'm very excited to help plan this amazing conference!
 
 <b>April '23: </b> I was featured in the April 2023 Academic Data Science Alliance (<a href="https://academicdatascience.org/">ADSA</a>) Career Development Network Round-up (newsletter) and <a href="https://academicdatascience.org/resources/meet-a-data-scientist-jamie-haddock/">blog</a>!
 
