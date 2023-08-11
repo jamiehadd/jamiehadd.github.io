@@ -31,6 +31,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>August '23: </b> Our (with collaborators Anna Ma and Liza Rebrova) paper <a href="https://arxiv.org/">“On Subsampled Quantile Randomized Kaczmarz”</a> was accepted to the the Fifty-Ninth Annual Allerton Conference on Communication, Control, and Computing to be held in Monticello, Illinois during September 26-29, 2023.  In this paper, we provide theoretical guarantees for the Quantile Randomized Kaczmarz method using subsamples of the linear system residual in each iteration.  Previous guarantees required computing the entire residual which is often (or nearly always) infeasible.  We're excited to participate in this wonderful conference!
+
 <b>June '23: </b> I've published all course materials for my course <a href="https://github.com/jamiehadd/Math189AD-MathematicalDataScienceAndTopicModeling">"Mathematical Data Science & Topic Modeling"</a>!  All slides, code, and assignments are available and free to be used, edited, and shared.  If you find use of these materials, please cite this repository and consider letting me know your impressions and any typos/errors you catch!
 
 <b>May '23: </b> I'm serving on the organizing committee for the third SIAM Conference on the Mathematics of Data Science (SIAM MDS) in 2024!  SIAM MDS is a biennial conference of the SIAM Activity Group on Data Science and “aims to bring together those who are building foundations for data science and its applications across science, engineering, technology, and society.” The organizing committee shapes and defines the scientific program of the conference, e.g., identify invited speakers, choose mini-tutorials, etc.  I'm very excited to help plan this amazing conference!
