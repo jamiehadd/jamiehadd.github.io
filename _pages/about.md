@@ -45,6 +45,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>February '24: </b> Our (with collaborators Bryan Curtis, Luyining Gan, Rachel Lawrence, and Sam Spiro) paper <a href="https://doi.org/10.1016/j.disc.2024.113944">“Zero Forcing with Random Sets”</a> appeared in Discrete Mathematics!  In this paper, we investigate the probability that a randomly sampled set of vertices of a given graph (each vertex included in the set independently with probability p) will serve as a zero forcing set for the graph.  This work additionally resolves a conjecture of Boyer et. al.
 
+<!--
+
 <b>December '23: </b> I was recently elected secretary of the SIAM Activity Group on Data Science (SIAG-DATA).  The aim of SIAG-DATA is to advance the mathematics of data science, to highlight the importance and benefits of data science, to bring data science innovations to other areas of applied mathematics, and to identify and explore the connections between data science and other applied sciences.  One of the main activities of this group is the biennial conference on the Mathematics of Data Science (MDS).  I am also currently sitting on the organizing committee of this conference!  I am excited to help lead SIAG-DATA and continue to advance the many application of mathematics in data science.
 
 <b>December '23: </b> My group's (with Paulina Hoyos Restrepo (UTA), Alona Kryshchenko (CSUCI), Kamila R. Larripa (Cal Poly Humboldt), Shambhavi Suryanarayanan (Princeton), and Karamatou Yacoubou-Djima (Wellesley)) proposal was accepted to the AIM SQuaRE program!  We will be visiting for a week-long research visit in February 2024, where we will be studying randomized column-slice-action methods for tensor problems.  We are very excited for this opportunity!
@@ -57,7 +59,7 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>November '23: </b> I am coorganizing a workshop titled "Women in Randomized Numerical Linear Algebra" at the Institute for Pure and Applied Mathematics (IPAM) in summer 2025 with Malena Espanol (ASU), Anna Ma (UCI), and Deanna Needell (UCLA).  We are excited to bring together an amazing group of researchers focused on this exciting topic!
 
-<!--
+
 
 <b>October '23: </b> Our paper (with students Tyler Will, Joshua Vendrow, Runyu Zhang, Mengdi Gao, and Eli Sadovnik, and colleagues Denali Molitor and Deanna Needell)  <a href="https://arxiv.org/abs/2303.00058">Neural Nonnegative Matrix Factorization for Hierarchical Multilayer Topic Modeling</a> was accepted to the "Sampling Theory, Signal Processing, and Data Analysis" journal!  In this paper, we introduce a new model based on nonnegative matrix factorization (NMF) for detecting latent hierarchical structure in data, which we call Neural NMF.  This model frames hierarchical NMF as a neural network, and we provide theoretical results which allow us to train Neural NMF via a natural backpropagation method. We illustrate the promise of this model with several numerical experiments on benchmark datasets and real world data.
 
