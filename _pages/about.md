@@ -31,7 +31,9 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
-<b>July '24: </b> I was named the Iris & Howard Critchell Assistant Professor.  This chair is awarded to a junior professor in advance of earning tenure as a way to recognize faculty, who in the early stages of their careers, have exhibited an unusual talent for mentoring and counseling students in all aspects of their lives: curricular, extracurricular, and personal.  I am honored to hold this chair named after Iris and Howard Critchell, who were founding directors of the Harvey Mudd College Bates Aeronautics Program and amazing people!  
+<b> August '24: </b> I joined the editorial board of <a href="https://link.springer.com/journal/11075">Numerical Algorithms</a>!  Looking forward to being part of this great journal.
+
+<b>July '24: </b> I was named the Iris & Howard Critchell Assistant Professor at Harvey Mudd College.  This chair is awarded to a junior professor in advance of earning tenure as a way to recognize faculty, who in the early stages of their careers, have exhibited an unusual talent for mentoring and counseling students in all aspects of their lives: curricular, extracurricular, and personal.  I am honored to hold this chair named after Iris and Howard Critchell, who were founding directors of the Harvey Mudd College Bates Aeronautics Program and amazing people!  
 
 <b>June '24: </b> We (with collaborators Minxin Zhang and Deanna Needell) submitted our paper <a href="https://arxiv.org/abs/2406.12021">Block Matrix and Tensor Randomized Kaczmarz Methods for Linear Feasibility Problems</a>!  In this paper, we propose new block variants of the randomized Kaczmarz method for solving linear feasibility problems defined by matrices and tensors under the tensor t-product. We prove that these methods converge linearly in expectation to the feasible region. We also illustrate the effectiveness of our methods through numerical experiments in image deblurring!
 
