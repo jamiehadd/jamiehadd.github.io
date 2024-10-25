@@ -31,6 +31,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>October '24: </b> I am a SIAM representative on the Joint Taskforce on Data Science Modeling Curriculum, which is a shared effort between ACM, ASA, MAA and SIAM. The taskforce extends the efforts of the ACM Data Science Task Force towards a complete data science model curriculum, a multidisciplinary effort with representatives from computing, statistics, applied mathematics, and other possible societies.  Our work on the forthcoming ACM-ASA-MAA-SIAM++ Competencies for Undergraduate Data Science Curricula was featured in <a href="https://www.siam.org/publications/siam-news/articles/identifying-the-multidisciplinary-competencies-of-data-science/">SIAM News</a>!
+
 <b>September '24: </b> My co-PIs and I were awarded an NSF Major Research Instrumentation (MRI) grant for project "Equipment: MRI Consortium: Track 1 Acquisition of a High-Performance Computing Cluster for Interdisciplinary Research at the Claremont Colleges"!  This grant will fund a new high-performance cluster to be housed at Claremont McKenna College (CMC) and shared between the Claremont Colleges consortium.  This project is joint with PI Paul S Nerenberg (CMC) and co-PIs Shibu Yooseph (CMC), Bilin Zhuang (HMC), and Angela Vossmeyer (CMC).  Very appreciative for the opportunity to bring new HPC tools to Harvey Mudd College!
 
 <b>September '24: </b> We (with collaborators Minxin Zhang and Deanna Needell) submitted our paper <a href="https://arxiv.org/">Tensor Randomized Kaczmarz Methods for Linear Feasibility Problems</a>!  In this paper, we propose and analyze new efficient variants of the randomized Kaczmarz method for solving linear feasibility problems defined over tensors under the tensor t-product.
@@ -40,6 +42,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 <b>July '24: </b> I was named the Iris & Howard Critchell Assistant Professor at Harvey Mudd College.  This chair is awarded to a junior professor in advance of earning tenure as a way to recognize faculty, who in the early stages of their careers, have exhibited an unusual talent for mentoring and counseling students in all aspects of their lives: curricular, extracurricular, and personal.  I am honored to hold this chair named after Iris and Howard Critchell, who were founding directors of the Harvey Mudd College Bates Aeronautics Program and amazing people!  
 
 <b>June '24: </b> We (with collaborators Minxin Zhang and Deanna Needell) submitted our paper <a href="https://arxiv.org/abs/2406.12021">Block Matrix and Tensor Randomized Kaczmarz Methods for Linear Feasibility Problems</a>!  In this paper, we propose new block variants of the randomized Kaczmarz method for solving linear feasibility problems defined by matrices and tensors under the tensor t-product. We prove that these methods converge linearly in expectation to the feasible region. We also illustrate the effectiveness of our methods through numerical experiments in image deblurring!
+
+<!--
 
 <b>April '24: </b> Anna Ma and I will be mentoring a Broader Engagement Guided Affinity Group (GAG) on "Randomized Algorithms for Challenging, Big Data" at the SIAM Conference on the Mathematics of Data Science (MDS) 2024.  Students in our GAG will meet with us virtually before the conference, will attend conference sessions relevant to our topic, will meet with us each morning at the conference, and hopefully will learn a lot!  Anna and I are excited to meet these participants and to experience MDS 2024 with them!
 
@@ -51,7 +55,7 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>February '24: </b> Our (with collaborators Bryan Curtis, Luyining Gan, Rachel Lawrence, and Sam Spiro) paper <a href="https://doi.org/10.1016/j.disc.2024.113944">“Zero Forcing with Random Sets”</a> appeared in Discrete Mathematics!  In this paper, we investigate the probability that a randomly sampled set of vertices of a given graph (each vertex included in the set independently with probability p) will serve as a zero forcing set for the graph.  This work additionally resolves a conjecture of Boyer et. al.
 
-<!--
+
 
 <b>December '23: </b> I was recently elected secretary of the SIAM Activity Group on Data Science (SIAG-DATA).  The aim of SIAG-DATA is to advance the mathematics of data science, to highlight the importance and benefits of data science, to bring data science innovations to other areas of applied mathematics, and to identify and explore the connections between data science and other applied sciences.  One of the main activities of this group is the biennial conference on the Mathematics of Data Science (MDS).  I am also currently sitting on the organizing committee of this conference!  I am excited to help lead SIAG-DATA and continue to advance the many application of mathematics in data science.
 
