@@ -31,6 +31,8 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <br>Recent News
 ===========
+<b>December '24: </b> We (with collaborators Alejandra Castillo, Iryna Hartsock, Paulina Hoyos, Lara Kassab, Alona Kryshchenko, Kamila R. Larripa, Deanna Needell, Shambhavi Suryanarayanan, and Karamatou Yacoubou-Djima) submitted our paper <a href="https://arxiv.org/abs/2412.10583">Randomized Kaczmarz methods for t-product tensor linear systems with factorized operators</a>!  In this paper, we extend the randomized Kaczmarz method to solve a t-product tensor system where the measurement tensor is given in factorized form. We develop variants of the randomized factorized Kaczmarz method for matrices that approximately solve tensor systems in both the consistent and inconsistent regimes. We provide theoretical guarantees of the exponential convergence rate of our algorithms, accompanied by illustrative numerical simulations, including in image deblurring!
+
 <b>October '24: </b> I am a SIAM representative on the Joint Taskforce on Data Science Modeling Curriculum, which is a shared effort between ACM, ASA, MAA and SIAM. The taskforce extends the efforts of the ACM Data Science Task Force towards a complete data science model curriculum, a multidisciplinary effort with representatives from computing, statistics, applied mathematics, and other possible societies.  Our work on the forthcoming ACM-ASA-MAA-SIAM++ Competencies for Undergraduate Data Science Curricula was featured in <a href="https://www.siam.org/publications/siam-news/articles/identifying-the-multidisciplinary-competencies-of-data-science/">SIAM News</a>!
 
 <b>September '24: </b> My co-PIs and I were awarded an NSF Major Research Instrumentation (MRI) grant for project "Equipment: MRI Consortium: Track 1 Acquisition of a High-Performance Computing Cluster for Interdisciplinary Research at the Claremont Colleges"!  This grant will fund a new high-performance cluster to be housed at Claremont McKenna College (CMC) and shared between the Claremont Colleges consortium.  This project is joint with PI Paul S Nerenberg (CMC) and co-PIs Shibu Yooseph (CMC), Bilin Zhuang (HMC), and Angela Vossmeyer (CMC).  Very appreciative for the opportunity to bring new HPC tools to Harvey Mudd College!
@@ -41,9 +43,11 @@ Email: <a href="mailto:jhaddock@g.hmc.edu">jhaddock@g.hmc.edu</a>
 
 <b>July '24: </b> I was named the Iris & Howard Critchell Assistant Professor at Harvey Mudd College.  This chair is awarded to a junior professor in advance of earning tenure as a way to recognize faculty, who in the early stages of their careers, have exhibited an unusual talent for mentoring and counseling students in all aspects of their lives: curricular, extracurricular, and personal.  I am honored to hold this chair named after Iris and Howard Critchell, who were founding directors of the Harvey Mudd College Bates Aeronautics Program and amazing people!  
 
+<!--
+
 <b>June '24: </b> We (with collaborators Minxin Zhang and Deanna Needell) submitted our paper <a href="https://arxiv.org/abs/2406.12021">Block Matrix and Tensor Randomized Kaczmarz Methods for Linear Feasibility Problems</a>!  In this paper, we propose new block variants of the randomized Kaczmarz method for solving linear feasibility problems defined by matrices and tensors under the tensor t-product. We prove that these methods converge linearly in expectation to the feasible region. We also illustrate the effectiveness of our methods through numerical experiments in image deblurring!
 
-<!--
+
 
 <b>April '24: </b> Anna Ma and I will be mentoring a Broader Engagement Guided Affinity Group (GAG) on "Randomized Algorithms for Challenging, Big Data" at the SIAM Conference on the Mathematics of Data Science (MDS) 2024.  Students in our GAG will meet with us virtually before the conference, will attend conference sessions relevant to our topic, will meet with us each morning at the conference, and hopefully will learn a lot!  Anna and I are excited to meet these participants and to experience MDS 2024 with them!
 
