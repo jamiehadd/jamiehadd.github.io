@@ -115,8 +115,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "test"
-  calendly         : "test"
+  cv               : "CV"
+  calendly         : "Calendly"
+  lorform          : "Letter of Rec Form"
 
 
 # Reading Files
