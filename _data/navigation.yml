@@ -15,8 +15,8 @@ main:
   - title: "Code"
     url: /code/
 
-  - title: "Schedule"
-    url: /schedule/
+  #- title: "Schedule"
+  #  url: /schedule/
 
   - title: "Resources"
     url: /resources/
