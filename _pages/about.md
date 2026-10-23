@@ -16,6 +16,8 @@ I am an Associate Professor in the [Mathematics Department](https://www.hmc.edu/
 
 Before starting at HMC, I received my PhD in the [Graduate Group in Applied Mathematics](http://appliedmath.ucdavis.edu/) at the University of California, Davis where I was fortunate to be advised by [Professor Jesús A. De Loera](https://www.math.ucdavis.edu/~deloera), and then was a CAM Assistant Professor (post-doc) in the University of California, Los Angeles (UCLA) [Mathematics Department](https://ww3.math.ucla.edu/) where my exceptional postdoctoral mentor was [Professor Deanna Needell](https://www.math.ucla.edu/~deanna/).
 
+I also serve on the editorial board of several journals.  I am associate editor for [Numerical Algorithms](https://link.springer.com/journal/11075) (since 2024), for the [SIAM Journal on Matrix Analysis and Applications](https://www.siam.org/publications/siam-journals/siam-journal-on-matrix-analysis-and-applications/) (since 2027), and for [SIAM Undergraduate Research Online](https://www.siam.org/publications/siam-journals/siam-undergraduate-research-online-siuro/) (since 2027).  I am also guest editor for a running special issue of 
+[Sampling Theory, Signal Processing, and Data Analysis](https://link.springer.com/journal/43670) related to the [1W-MINDS seminar](https://sites.google.com/view/minds-seminar/) (which I formerly co-organized), and was guest editor of the Topical Section on Tensor Methods of [La Matematica](https://link.springer.com/journal/44007). 
 
 
 
